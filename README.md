@@ -54,7 +54,7 @@ Path -> /SBG_Assesment/src/test/java/testcases/StoreFixture.java
 
 ## Task 3: Update a fixture within the database
 
-1. Data provider is used to update the parameters of existing fixture
+1. Data provider is used to update the parameters of a fixture in the database
 
 2. Assertions in TestNG is used to assert that the relevant attributes in the fixture have changed.
 
@@ -64,7 +64,7 @@ Path -> /SBG_Assesment/src/test/java/testcases/UpdateFixture.java
 
 Path -> /SBG_Assesment/src/test/java/testcases/DeleteFixture.java
 
-1. New fixture stored in the database is deleted
+1. A fixture stored in the database is deleted
 
 2. All fixtures are retrieved and asserted that the new fixture is deleted.
 
